@@ -1,6 +1,6 @@
 ## Hola, soy David
 
-Desarrollador de software junior en Durango, México. Estudio Ingeniería en TIC en la Universidad Tecnológica de Durango y trabajo sobre todo en backend con **Laravel** y **Python (FastAPI)**, integrando modelos de IA en aplicaciones web.
+Desarrollador de software junior en México. Estudio Ingeniería en TIC en la Universidad Tecnológica de Durango y trabajo sobre todo en backend con **Laravel** y **Python (FastAPI)**, integrando modelos de IA en aplicaciones web.
 
 ### En qué he trabajado
 
